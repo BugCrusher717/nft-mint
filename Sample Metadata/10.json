@@ -1,0 +1,26 @@
+{
+
+    "name": "#10",
+    "description": "Sample NFT Provided For The Project",
+    "image": "https://ghostsdata.000webhostapp.com/metadata/10.gif",
+    "edition": 10,
+    "date": 1639523726557,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "None"
+        },
+        {
+            "trait_type": "Attire",
+            "value": "None"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "None"
+        }
+    ]
+}
